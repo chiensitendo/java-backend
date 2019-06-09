@@ -8,7 +8,7 @@ public class HomeController {
 
 	@ResponseBody
 	public void home() {
-		
+		System.out.println("this is change");
 	}
 	
 	@ResponseBody
