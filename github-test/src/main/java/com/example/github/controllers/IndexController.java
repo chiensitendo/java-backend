@@ -8,7 +8,7 @@ public class IndexController {
 
 	@ResponseBody
 	public String index() {
-		System.out.println("This is index controllers");
+		System.out.println("This is index controllers new change 1");
 		return "";
 	}
 }
