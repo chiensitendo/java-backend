@@ -8,7 +8,7 @@ public class HomeController {
 
 	@ResponseBody
 	public String name() {
-		
+		System.out.println("This is new change");
 		return "";
 	}
 }
